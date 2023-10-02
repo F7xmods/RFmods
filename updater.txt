@@ -3,15 +3,13 @@
     {
  "version":"9.65",
  "title":"Update Disponible",
- "description":"RFWhatsApp 
+ "description":"RFWhatsapp v4.0
 
-Base: 2.23 1.76
+Base: 2.23.17.81
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-Nuevo Systema de Actualización 
-
- Actualización AntiBaneo disponible ",
+install To enjoy the new features ",
 "download":"https://t.me/epic_modd"
 }
   ]
