@@ -1,7 +1,7 @@
 {
   "fnmods_update": [
     {
- "version":"3.5",
+ "version":"3.6",
  "title":"Update Disponible",
  "description":"RFWhatsapp v4.0
 
