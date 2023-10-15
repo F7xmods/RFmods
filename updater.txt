@@ -1,16 +1,16 @@
 {
   "fnmods_update": [
     {
- "version":"3.5",
+ "version":"4.0",
  "title":"Update Disponible",
- "description":"RFWhatsapp v3.5
+ "description":"RFWhatsapp Update
 
 Base: 2.23.17.81
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 install to enjoy with new features ",
-"download":"https://t.me/epic_modd"
+"download":"https://www.mediafire.com/folder/gvk3coi5eqzqs/RFWhatsApp+Updates"
 }
   ]
 }
